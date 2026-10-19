@@ -7,7 +7,7 @@
   
 
 - <b>Microsoft Azure</b>
-  - [Setting up Resource Groups and VM's]()
+  - [Setting up Resource Groups and VM's](https://github.com/b33lzaboot/)
     
 
 <h2>🤳Connect with me:</h2>
