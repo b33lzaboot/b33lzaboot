@@ -7,7 +7,7 @@
   
 
 - <b>Microsoft Azure</b>
-  - [Setting up Resource Groups and VM's](https://github.com/b33lzaboot/osticket-prereqs)
+  - [Setting up Resource Groups and VM's](https://github.com/b33lzaboot/Setting-up-Resource-Groups-and-VM-s.git)
     
 
 <h2>🤳Connect with me:</h2>
